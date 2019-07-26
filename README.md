@@ -110,7 +110,7 @@ About the process cost for decompressing, the cost of `UnzipGs.unzip()` is much 
 
 - By this situation, unfortunately, I couldn't implement the method for zipping.
 
-- <u>The reason of this issue is due to the process of Google Apps Script. For example, if v8 engine can be used with Google Apps Script in the future, this situation will be changed. I would like to expect this.</u>
+- **The reason of this issue is due to the process of Google Apps Script. For example, if v8 engine can be used with Google Apps Script in the future, this situation will be changed. I would like to expect this.**
 
 - Or Google might also update `Utilities.unzip()` by including the method for decompressing the protected Zip file in the future.
 
