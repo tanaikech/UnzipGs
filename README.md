@@ -143,4 +143,7 @@ If you have any questions and commissions for me, feel free to contact me.
 
   1. Initial release.
 
+# Testing
+- September 16, 2020: When I used a sample zip file with the password, I could confirm that the script worked. But, unfortunately, it seems that `unzip.min.js` cannot be used with v8 runtime. So when this library is used, please disable V8 runtime at the script editor.
+
 [TOP](#top)
