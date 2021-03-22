@@ -1,0 +1,12 @@
+{
+  "timeZone": "Asia/Tokyo",
+  "dependencies": {
+    "libraries": [{
+      "userSymbol": "unzipminjs",
+      "libraryId": "1CVQLmEgeXJ8D6ctDyURT7ZXUNi5Zf0Rjy1bH9ory1nOy0-KcULQCa5WK",
+      "version": "1",
+      "developmentMode": true
+    }]
+  },
+  "exceptionLogging": "STACKDRIVER"
+}
