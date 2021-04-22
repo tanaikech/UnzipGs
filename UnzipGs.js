@@ -106,7 +106,7 @@ function getFilenames(blob, options) {
       var a;
       a = ar_.map(function(e) {
         var res;
-        res = e > 128 ? e - 256 : e;
+        res = e >= 128 ? e - 256 : e;
         return res;
       });
       return Utilities.newBlob(a);
